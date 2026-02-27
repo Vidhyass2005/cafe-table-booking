@@ -1,10 +1,11 @@
                                                          **Cafe Table Booking System**
 
-You can copy and paste this inside your `README.md` file 👇
-** ☕ Brew Haven Cafe – Table Booking System**
+                                                 ** ☕ Brew Haven Cafe – Table Booking System**
+
 **Project Overview**
 Brew Haven Cafe Table Booking System is a web-based application that allows customers to book tables online, make payments, and manage their reservations easily.
 This project is built using **HTML, CSS, and JavaScript**.
+
 **Features**
 * 👤 User Signup & Login
 * 🪑 Table Booking System
@@ -13,7 +14,9 @@ This project is built using **HTML, CSS, and JavaScript**.
 * 👨‍💼 Admin Panel
 * ✅ Booking Confirmation Page
 * 🎨 Responsive UI Design
+  
 **Project Structure**
+  
 CAFE TABLE BOOKING SYSTEM/
 │
 ├── index.html
@@ -42,7 +45,9 @@ CAFE TABLE BOOKING SYSTEM/
 * CSS3
 * JavaScript
 * Git & GitHub
+  
  **How to Run the Project**
+  
 1. Download or Clone the repository
 2. Open the project folder
 3. Open `index.html` in your browser
