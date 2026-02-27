@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Book Table</title>
+    <link rel="stylesheet" href="css/style.css">
+     <link rel="icon" href="images/cafe.png">
+      
+</head>
+<body>
+
+<nav class="navbar">
+    <h2 class="logo">☕ Brew Haven</h2>
+    <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="booking.html">Book Table</a>
+        <a href="mybookings.html">My Bookings</a>
+        <a href="admin.html">Admin</a>
+        <a href="#" onclick="logout()">Logout</a>
+    </div>
+</nav>
+
+<h2>Book Table</h2>
+
+<form id="bookingForm">
+    <input type="text" id="name" placeholder="Full Name" required>
+
+    <input type="date" id="date" required>
+
+    <select id="timeSlot" required>
+        <option value="">Select Time</option>
+        <option>10:00 AM</option>
+        <option>11:00 AM</option>
+        <option>12:00 PM</option>
+        <option>01:00 pM</option>
+        <option>02:00 PM</option>
+        <option>03:00 PM</option>
+        <option>04:00 PM</option>
+        <option>05:00 PM</option>
+        <option>06:00 PM</option>
+        <option>07:00 PM</option>
+        <option>08:00 PM</option>
+    </select>
+
+    <input type="number" id="guests" placeholder="Guests" required>
+    <button type="submit">Proceed to Payment</button>
+</form>
+
+<script src="js/booking.js"></script>
+<script src="js/auth.js"></script>
+</body>
+</html>
