@@ -50,5 +50,3 @@ CAFE TABLE BOOKING SYSTEM/
 https://github.com/Vidhyass2005/cafe-table-booking
 **Author**
 **Vidhya S S**
-I’ll give you an industry-level README for placements 🚀
-
