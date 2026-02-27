@@ -51,7 +51,12 @@ CAFE TABLE BOOKING SYSTEM/
 1. Download or Clone the repository
 2. Open the project folder
 3. Open `index.html` in your browser
+
 **GitHub Repository**
+
 https://github.com/Vidhyass2005/cafe-table-booking
+
 **Author**
-**Vidhya S S**
+
+**NAME**:**Vidhya S S**
+**EMAIL ADDRESS**:**vidhyass2005@gmail.com**
